@@ -19,10 +19,10 @@ Thanks for your interest in contributing! This repo is community-supported — w
 
 We run `ruff` for linting on all PRs. Before submitting, run:
 
-\`\`\`
+```
 pip install ruff
 ruff check .
-\`\`\`
+```
 
 ## Submitting a PR
 
